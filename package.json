@@ -12,7 +12,7 @@
   },
   "dependencies": {
 
-    "project-name": "git+ssh://git@github.com/lvsezhufu/word-finder.git#master",//git@github.com:lvsezhufu/word-finder.git
+    "project-name": "git+ssh://git@github.com:lvsezhufu/word-finder.git#master",//git@github.com:lvsezhufu/word-finder.git
     "jquery": "^2.2.4",
     "react": "^15.0.1",
     "react-dom": "^15.0.1"
